@@ -1,0 +1,28 @@
+.Mahoraga {
+  background-color: yellow;
+  font-size: larger;
+  display: flex;
+  justify-content: space-between;
+}
+
+.content-container {
+  background-color: yellow;
+}
+
+.gojo {
+  background-color: white;
+  display: flex;
+  /* gap: 8px; */
+  justify-content: space-evenly;
+}
+
+.sukuna {
+  color: black;
+  font-size: 20px;
+  /* -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: blue; */
+}
+
+.number-container {
+  display: flex; /* make it a row */
+}
